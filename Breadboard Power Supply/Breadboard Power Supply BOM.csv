@@ -1,0 +1,15 @@
+,Reference Designator,DNP,Part Name,Manufacturer,MPN,Qty,Footprint,Link,Notes,Price,Total Price
+1,J1,No,Barrel Jack Switch,MPD (Memory Protection Devices),EJ508B,1,THT,Link,12V,1.22,99.29
+2,S1,No,Switch,E-Switch,EG1218,1,THT,Link,,0.84,
+3,C1,No,Capacitor,TDK Corporation,FK20X7S1H106KR000,1,THT,Link,10uF,1.04,
+4,C2,No,Capacitor,Murata Electronics,RCER72A105K2DBH03A,1,THT,Link,1uF,0.79,
+5,C3,No,Capacitor,Vishay Beyschlag/Draloric/BC Components,S104Z93Z5VL83L0R,1,THT,Link,0.1uF,2.49,
+6,U1,No,Power Regulator,STMicroelectronics,LM317T,1,THT,Link,,0.56,
+7,U2,No,Power Regulator,Texas Instruments,LM7805CT/NOPB,1,THT,Link,,1.8,
+8,"R1, R2",No,Resistor,TE Connectivity Passive Product,ROX1SJ330R,2,THT,Link,330,0.1,
+9,R3,No,Resistor,TE Connectivity Passive Product,ROX1SJ560R,1,THT,Link,560,0.1,
+10,D1,No,LED,Kingbright,WP56BID,1,THT,Link,Red,1.01,
+11,"J7, J3",No,1x3 Pin Header Male,Samtec Inc.,TSW-101-24-G-T,2,THT,Link,,0.39,
+12,"J6, J4",No,1x2 Pin Header Male,Amphenol ICC (FCI),67997-402HLF,2,THT,Link,,0.15,
+13,"J5, J2",No,1x2 Screw Terminal,Phoenix Contact,1729128,2,THT,Link,,0.92,
+14,N/a,N/a,PCB,PCBWay,N/a,5,N/a,,,86.32,
