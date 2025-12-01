@@ -2010,7 +2010,7 @@
 		)
 		(uuid "c83c3928-15d0-401e-b77a-38ab04b590c9")
 	)
-	(text "3V Circuit"
+	(text "3.3V Circuit"
 		(exclude_from_sim no)
 		(at 54.61 70.866 0)
 		(effects
@@ -2760,7 +2760,7 @@
 		)
 		(uuid "777c6a38-7c01-4daa-a888-f6fc8df05aea")
 	)
-	(label "PWR_OUT_TOP"
+	(label "PWR_OUTPUT_TOP"
 		(at 184.15 107.95 180)
 		(effects
 			(font
