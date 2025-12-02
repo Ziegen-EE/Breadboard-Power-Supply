@@ -50,3 +50,13 @@ You can view the **full BOM** spreadsheet using the link below:
 ## License
 
 This project is released under the **MIT License**. Feel free to use, modify, and share.
+
+## Some Pics of the Design!
+
+<img width="1077" height="818" alt="Schematic" src="https://github.com/user-attachments/assets/c2ff4cb3-ab6d-4e90-98f3-7a7f4b8a86c2" />
+
+<img width="383" height="640" alt="2D_PCB" src="https://github.com/user-attachments/assets/ca3201df-dd84-49a5-b215-d5d52788a36e" />
+
+<img width="1148" height="833" alt="3D_PCB" src="https://github.com/user-attachments/assets/55c52822-4eb6-46b7-86ce-148aca88e73a" />
+
+
