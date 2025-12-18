@@ -22,7 +22,7 @@ A compact PCB breadboard power supply designed to provide clean, stable **3.3V a
 | 2 | S1 | No | Switch | E-Switch | EG1218 | 1 | THT | Link | — | 0.84 | — |
 | 3 | C1 | No | Capacitor | TDK Corporation | FK20X7S1H106KR000 | 1 | THT | Link | 10uF | 1.04 | — |
 | 4 | C2 | No | Capacitor | Murata Electronics | RCER72A105K2DBH03A | 1 | THT | Link | 1uF | 0.79 | — |
-| 5 | C3 | No | Capacitor | Vishay Beyschlag / Draloric / BC Components | S104Z93Z5VL83L0R | 1 | THT | Link | 0.1uF | 2.49 | — |
+| 5 | C3 | No | Capacitor | KEMET | C320C104K5R5TA | 1 | THT | Link | 0.1uF | 0.30 | — |
 
 You can view the **full BOM** spreadsheet using the link below:  
 
